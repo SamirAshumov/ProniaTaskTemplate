@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProniaTask.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProniaTask.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProniaTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProniaTask.props",
+      "PackagePath": "build\\ProniaTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProniaTask.props",
+      "PackagePath": "buildMultiTargeting\\ProniaTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProniaTask.props",
+      "PackagePath": "buildTransitive\\ProniaTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

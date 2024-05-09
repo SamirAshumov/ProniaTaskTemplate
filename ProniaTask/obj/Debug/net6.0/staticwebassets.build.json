@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "dSx5QQjqKTAFRhFbBDkmanusdS4yQjBIit/kaUXZ4pU=",
+  "Source": "ProniaTask",
+  "BasePath": "_content/ProniaTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProniaTask.styles.css",
+      "SourceId": "ProniaTask",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ProniaTask",
+      "RelativePath": "ProniaTask.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProniaTask.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProniaTask.bundle.scp.css",
+      "SourceId": "ProniaTask",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ProniaTask",
+      "RelativePath": "ProniaTask.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\samir\\OneDrive\\Desktop\\ProniaTask\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProniaTask.bundle.scp.css"
+    }
+  ]
+}
